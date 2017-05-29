@@ -7,6 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B6388BFA1E9D0DDD00C15699 /* mainMenuBackgroundMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B6388BF91E9D0DDD00C15699 /* mainMenuBackgroundMusic.mp3 */; };
+		B6388BFB1E9D0DDD00C15699 /* mainMenuBackgroundMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B6388BF91E9D0DDD00C15699 /* mainMenuBackgroundMusic.mp3 */; };
+		B6388BFC1E9D0DDD00C15699 /* mainMenuBackgroundMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B6388BF91E9D0DDD00C15699 /* mainMenuBackgroundMusic.mp3 */; };
+		B6388BFE1E9D158800C15699 /* drawingSounds.wav in Resources */ = {isa = PBXBuildFile; fileRef = B6388BFD1E9D158800C15699 /* drawingSounds.wav */; };
+		B6388BFF1E9D158800C15699 /* drawingSounds.wav in Resources */ = {isa = PBXBuildFile; fileRef = B6388BFD1E9D158800C15699 /* drawingSounds.wav */; };
+		B6388C001E9D158800C15699 /* drawingSounds.wav in Resources */ = {isa = PBXBuildFile; fileRef = B6388BFD1E9D158800C15699 /* drawingSounds.wav */; };
+		B6388C021E9D16DB00C15699 /* resetDrawingSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B6388C011E9D16DB00C15699 /* resetDrawingSound.mp3 */; };
+		B6388C031E9D16DB00C15699 /* resetDrawingSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B6388C011E9D16DB00C15699 /* resetDrawingSound.mp3 */; };
+		B6388C041E9D16DB00C15699 /* resetDrawingSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B6388C011E9D16DB00C15699 /* resetDrawingSound.mp3 */; };
+		B6859D511E8FE4B700BB92C6 /* ResultsScreenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6859D501E8FE4B700BB92C6 /* ResultsScreenViewController.m */; };
+		B6859D521E8FE4B700BB92C6 /* ResultsScreenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6859D501E8FE4B700BB92C6 /* ResultsScreenViewController.m */; };
+		B6859D531E8FE4B700BB92C6 /* ResultsScreenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6859D501E8FE4B700BB92C6 /* ResultsScreenViewController.m */; };
+		B6859D5A1E905D4400BB92C6 /* black.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D541E905D4400BB92C6 /* black.png */; };
+		B6859D5B1E905D4400BB92C6 /* black.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D541E905D4400BB92C6 /* black.png */; };
+		B6859D5C1E905D4400BB92C6 /* black.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D541E905D4400BB92C6 /* black.png */; };
+		B6859D5D1E905D4400BB92C6 /* blue.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D551E905D4400BB92C6 /* blue.png */; };
+		B6859D5E1E905D4400BB92C6 /* blue.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D551E905D4400BB92C6 /* blue.png */; };
+		B6859D5F1E905D4400BB92C6 /* blue.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D551E905D4400BB92C6 /* blue.png */; };
+		B6859D601E905D4400BB92C6 /* Eraser.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D561E905D4400BB92C6 /* Eraser.png */; };
+		B6859D611E905D4400BB92C6 /* Eraser.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D561E905D4400BB92C6 /* Eraser.png */; };
+		B6859D621E905D4400BB92C6 /* Eraser.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D561E905D4400BB92C6 /* Eraser.png */; };
+		B6859D631E905D4400BB92C6 /* green.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D571E905D4400BB92C6 /* green.png */; };
+		B6859D641E905D4400BB92C6 /* green.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D571E905D4400BB92C6 /* green.png */; };
+		B6859D651E905D4400BB92C6 /* green.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D571E905D4400BB92C6 /* green.png */; };
+		B6859D661E905D4400BB92C6 /* Red.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D581E905D4400BB92C6 /* Red.png */; };
+		B6859D671E905D4400BB92C6 /* Red.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D581E905D4400BB92C6 /* Red.png */; };
+		B6859D681E905D4400BB92C6 /* Red.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D581E905D4400BB92C6 /* Red.png */; };
+		B6859D691E905D4400BB92C6 /* yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D591E905D4400BB92C6 /* yellow.png */; };
+		B6859D6A1E905D4400BB92C6 /* yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D591E905D4400BB92C6 /* yellow.png */; };
+		B6859D6B1E905D4400BB92C6 /* yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D591E905D4400BB92C6 /* yellow.png */; };
+		B6859D6D1E905FEF00BB92C6 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D6C1E905FEF00BB92C6 /* background.png */; };
+		B6859D6E1E905FEF00BB92C6 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D6C1E905FEF00BB92C6 /* background.png */; };
+		B6859D6F1E905FEF00BB92C6 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = B6859D6C1E905FEF00BB92C6 /* background.png */; };
+		B688350B1E86F026000C489D /* SecondScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = B688350A1E86F026000C489D /* SecondScreen.m */; };
+		B688350C1E86F026000C489D /* SecondScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = B688350A1E86F026000C489D /* SecondScreen.m */; };
+		B688350D1E86F026000C489D /* SecondScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = B688350A1E86F026000C489D /* SecondScreen.m */; };
 		B6C3C40A1E8443D4001D6C8E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B6C3C4091E8443D4001D6C8E /* main.m */; };
 		B6C3C40D1E8443D4001D6C8E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B6C3C40C1E8443D4001D6C8E /* AppDelegate.m */; };
 		B6C3C4101E8443D4001D6C8E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6C3C40F1E8443D4001D6C8E /* ViewController.m */; };
@@ -15,6 +51,15 @@
 		B6C3C4181E8443D4001D6C8E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6C3C4161E8443D4001D6C8E /* LaunchScreen.storyboard */; };
 		B6C3C4231E8443D4001D6C8E /* COMP_4768_ProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B6C3C4221E8443D4001D6C8E /* COMP_4768_ProjectTests.m */; };
 		B6C3C42E1E8443D4001D6C8E /* COMP_4768_ProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B6C3C42D1E8443D4001D6C8E /* COMP_4768_ProjectUITests.m */; };
+		B6E68E631E92983800963CC7 /* ButtonBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E68E621E92983800963CC7 /* ButtonBackground.png */; };
+		B6E68E641E92983800963CC7 /* ButtonBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E68E621E92983800963CC7 /* ButtonBackground.png */; };
+		B6E68E651E92983800963CC7 /* ButtonBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E68E621E92983800963CC7 /* ButtonBackground.png */; };
+		B6E68E671E92984100963CC7 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E68E661E92984100963CC7 /* logo.png */; };
+		B6E68E681E92984100963CC7 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E68E661E92984100963CC7 /* logo.png */; };
+		B6E68E691E92984100963CC7 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = B6E68E661E92984100963CC7 /* logo.png */; };
+		B6E68E6C1E929DAF00963CC7 /* PracticeAreaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6E68E6B1E929DAF00963CC7 /* PracticeAreaViewController.m */; };
+		B6E68E6D1E929DAF00963CC7 /* PracticeAreaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6E68E6B1E929DAF00963CC7 /* PracticeAreaViewController.m */; };
+		B6E68E6E1E929DAF00963CC7 /* PracticeAreaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6E68E6B1E929DAF00963CC7 /* PracticeAreaViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +80,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B6388BF91E9D0DDD00C15699 /* mainMenuBackgroundMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mainMenuBackgroundMusic.mp3; sourceTree = "<group>"; };
+		B6388BFD1E9D158800C15699 /* drawingSounds.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = drawingSounds.wav; sourceTree = "<group>"; };
+		B6388C011E9D16DB00C15699 /* resetDrawingSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = resetDrawingSound.mp3; sourceTree = "<group>"; };
+		B6859D4F1E8FE4B700BB92C6 /* ResultsScreenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResultsScreenViewController.h; sourceTree = "<group>"; };
+		B6859D501E8FE4B700BB92C6 /* ResultsScreenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResultsScreenViewController.m; sourceTree = "<group>"; };
+		B6859D541E905D4400BB92C6 /* black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = black.png; sourceTree = "<group>"; };
+		B6859D551E905D4400BB92C6 /* blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blue.png; sourceTree = "<group>"; };
+		B6859D561E905D4400BB92C6 /* Eraser.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Eraser.png; sourceTree = "<group>"; };
+		B6859D571E905D4400BB92C6 /* green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green.png; sourceTree = "<group>"; };
+		B6859D581E905D4400BB92C6 /* Red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Red.png; sourceTree = "<group>"; };
+		B6859D591E905D4400BB92C6 /* yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellow.png; sourceTree = "<group>"; };
+		B6859D6C1E905FEF00BB92C6 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		B68835091E86F026000C489D /* SecondScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondScreen.h; sourceTree = "<group>"; };
+		B688350A1E86F026000C489D /* SecondScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondScreen.m; sourceTree = "<group>"; };
 		B6C3C4051E8443D4001D6C8E /* COMP_4768_Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = COMP_4768_Project.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6C3C4091E8443D4001D6C8E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B6C3C40B1E8443D4001D6C8E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +110,10 @@
 		B6C3C4291E8443D4001D6C8E /* COMP_4768_ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = COMP_4768_ProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6C3C42D1E8443D4001D6C8E /* COMP_4768_ProjectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = COMP_4768_ProjectUITests.m; sourceTree = "<group>"; };
 		B6C3C42F1E8443D4001D6C8E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6E68E621E92983800963CC7 /* ButtonBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonBackground.png; sourceTree = "<group>"; };
+		B6E68E661E92984100963CC7 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		B6E68E6A1E929DAF00963CC7 /* PracticeAreaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PracticeAreaViewController.h; sourceTree = "<group>"; };
+		B6E68E6B1E929DAF00963CC7 /* PracticeAreaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PracticeAreaViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +141,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B6388BF81E9D0D1C00C15699 /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				B6388BF91E9D0DDD00C15699 /* mainMenuBackgroundMusic.mp3 */,
+				B6388BFD1E9D158800C15699 /* drawingSounds.wav */,
+				B6388C011E9D16DB00C15699 /* resetDrawingSound.mp3 */,
+			);
+			name = Audio;
+			sourceTree = "<group>";
+		};
+		B68835221E86F087000C489D /* UI_Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				B6859D6C1E905FEF00BB92C6 /* background.png */,
+				B6859D541E905D4400BB92C6 /* black.png */,
+				B6859D551E905D4400BB92C6 /* blue.png */,
+				B6E68E661E92984100963CC7 /* logo.png */,
+				B6859D561E905D4400BB92C6 /* Eraser.png */,
+				B6859D571E905D4400BB92C6 /* green.png */,
+				B6E68E621E92983800963CC7 /* ButtonBackground.png */,
+				B6859D581E905D4400BB92C6 /* Red.png */,
+				B6859D591E905D4400BB92C6 /* yellow.png */,
+			);
+			name = UI_Pictures;
+			sourceTree = "<group>";
+		};
 		B6C3C3FC1E8443D4001D6C8E = {
 			isa = PBXGroup;
 			children = (
@@ -101,10 +190,18 @@
 		B6C3C4071E8443D4001D6C8E /* COMP_4768_Project */ = {
 			isa = PBXGroup;
 			children = (
+				B68835221E86F087000C489D /* UI_Pictures */,
+				B6388BF81E9D0D1C00C15699 /* Audio */,
 				B6C3C40B1E8443D4001D6C8E /* AppDelegate.h */,
 				B6C3C40C1E8443D4001D6C8E /* AppDelegate.m */,
 				B6C3C40E1E8443D4001D6C8E /* ViewController.h */,
 				B6C3C40F1E8443D4001D6C8E /* ViewController.m */,
+				B68835091E86F026000C489D /* SecondScreen.h */,
+				B688350A1E86F026000C489D /* SecondScreen.m */,
+				B6859D4F1E8FE4B700BB92C6 /* ResultsScreenViewController.h */,
+				B6859D501E8FE4B700BB92C6 /* ResultsScreenViewController.m */,
+				B6E68E6A1E929DAF00963CC7 /* PracticeAreaViewController.h */,
+				B6E68E6B1E929DAF00963CC7 /* PracticeAreaViewController.m */,
 				B6C3C4111E8443D4001D6C8E /* Main.storyboard */,
 				B6C3C4141E8443D4001D6C8E /* Assets.xcassets */,
 				B6C3C4161E8443D4001D6C8E /* LaunchScreen.storyboard */,
@@ -207,6 +304,7 @@
 				TargetAttributes = {
 					B6C3C4041E8443D4001D6C8E = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = AWCRMQBEL6;
 						ProvisioningStyle = Automatic;
 					};
 					B6C3C41D1E8443D4001D6C8E = {
@@ -246,9 +344,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6859D6D1E905FEF00BB92C6 /* background.png in Resources */,
+				B6E68E671E92984100963CC7 /* logo.png in Resources */,
 				B6C3C4181E8443D4001D6C8E /* LaunchScreen.storyboard in Resources */,
+				B6388C021E9D16DB00C15699 /* resetDrawingSound.mp3 in Resources */,
+				B6E68E631E92983800963CC7 /* ButtonBackground.png in Resources */,
+				B6859D691E905D4400BB92C6 /* yellow.png in Resources */,
+				B6388BFA1E9D0DDD00C15699 /* mainMenuBackgroundMusic.mp3 in Resources */,
+				B6859D601E905D4400BB92C6 /* Eraser.png in Resources */,
+				B6859D5D1E905D4400BB92C6 /* blue.png in Resources */,
+				B6859D631E905D4400BB92C6 /* green.png in Resources */,
 				B6C3C4151E8443D4001D6C8E /* Assets.xcassets in Resources */,
 				B6C3C4131E8443D4001D6C8E /* Main.storyboard in Resources */,
+				B6388BFE1E9D158800C15699 /* drawingSounds.wav in Resources */,
+				B6859D5A1E905D4400BB92C6 /* black.png in Resources */,
+				B6859D661E905D4400BB92C6 /* Red.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +366,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6859D6A1E905D4400BB92C6 /* yellow.png in Resources */,
+				B6388BFF1E9D158800C15699 /* drawingSounds.wav in Resources */,
+				B6859D6E1E905FEF00BB92C6 /* background.png in Resources */,
+				B6859D5B1E905D4400BB92C6 /* black.png in Resources */,
+				B6388C031E9D16DB00C15699 /* resetDrawingSound.mp3 in Resources */,
+				B6388BFB1E9D0DDD00C15699 /* mainMenuBackgroundMusic.mp3 in Resources */,
+				B6859D5E1E905D4400BB92C6 /* blue.png in Resources */,
+				B6859D611E905D4400BB92C6 /* Eraser.png in Resources */,
+				B6E68E641E92983800963CC7 /* ButtonBackground.png in Resources */,
+				B6859D671E905D4400BB92C6 /* Red.png in Resources */,
+				B6E68E681E92984100963CC7 /* logo.png in Resources */,
+				B6859D641E905D4400BB92C6 /* green.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +385,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6859D6B1E905D4400BB92C6 /* yellow.png in Resources */,
+				B6388C001E9D158800C15699 /* drawingSounds.wav in Resources */,
+				B6859D6F1E905FEF00BB92C6 /* background.png in Resources */,
+				B6859D5C1E905D4400BB92C6 /* black.png in Resources */,
+				B6388C041E9D16DB00C15699 /* resetDrawingSound.mp3 in Resources */,
+				B6388BFC1E9D0DDD00C15699 /* mainMenuBackgroundMusic.mp3 in Resources */,
+				B6859D5F1E905D4400BB92C6 /* blue.png in Resources */,
+				B6859D621E905D4400BB92C6 /* Eraser.png in Resources */,
+				B6E68E651E92983800963CC7 /* ButtonBackground.png in Resources */,
+				B6859D681E905D4400BB92C6 /* Red.png in Resources */,
+				B6E68E691E92984100963CC7 /* logo.png in Resources */,
+				B6859D651E905D4400BB92C6 /* green.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +407,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6E68E6C1E929DAF00963CC7 /* PracticeAreaViewController.m in Sources */,
 				B6C3C4101E8443D4001D6C8E /* ViewController.m in Sources */,
+				B688350B1E86F026000C489D /* SecondScreen.m in Sources */,
+				B6859D511E8FE4B700BB92C6 /* ResultsScreenViewController.m in Sources */,
 				B6C3C40D1E8443D4001D6C8E /* AppDelegate.m in Sources */,
 				B6C3C40A1E8443D4001D6C8E /* main.m in Sources */,
 			);
@@ -283,7 +420,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6859D521E8FE4B700BB92C6 /* ResultsScreenViewController.m in Sources */,
 				B6C3C4231E8443D4001D6C8E /* COMP_4768_ProjectTests.m in Sources */,
+				B6E68E6D1E929DAF00963CC7 /* PracticeAreaViewController.m in Sources */,
+				B688350C1E86F026000C489D /* SecondScreen.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,7 +431,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6859D531E8FE4B700BB92C6 /* ResultsScreenViewController.m in Sources */,
 				B6C3C42E1E8443D4001D6C8E /* COMP_4768_ProjectUITests.m in Sources */,
+				B6E68E6E1E929DAF00963CC7 /* PracticeAreaViewController.m in Sources */,
+				B688350D1E86F026000C489D /* SecondScreen.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,7 +567,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AWCRMQBEL6;
 				INFOPLIST_FILE = COMP_4768_Project/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Freddie-Pike.COMP-4768-Project";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -435,7 +580,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AWCRMQBEL6;
 				INFOPLIST_FILE = COMP_4768_Project/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Freddie-Pike.COMP-4768-Project";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -507,6 +654,7 @@
 				B6C3C4341E8443D4001D6C8E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B6C3C4351E8443D4001D6C8E /* Build configuration list for PBXNativeTarget "COMP_4768_ProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +663,7 @@
 				B6C3C4371E8443D4001D6C8E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B6C3C4381E8443D4001D6C8E /* Build configuration list for PBXNativeTarget "COMP_4768_ProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +672,7 @@
 				B6C3C43A1E8443D4001D6C8E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
